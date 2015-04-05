@@ -106,14 +106,14 @@ a:active {
 }
 
 .name {
-    margin: 425px;
+    margin: 200px;
     margin-bottom: 25px;
     border: 1px solid black;
     padding: 25px;
 }
 .lettersimg {
-    margin: 200px;
+    margin: 420px;
     margin-top: 150px;
-    border: 1px solid black;
+    border: 1px solid;
 
 }
